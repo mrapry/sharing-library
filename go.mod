@@ -1,4 +1,4 @@
-module github.com/mrapry/sharing-library/sharing-library
+module github.com/mrapry/sharing-library
 
 go 1.15
 
